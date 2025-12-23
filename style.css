@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+}
+
+.bg{
+    background-image: radial-gradient(lightgreen,white);
+    text-align: center;
+    font-family: "Bree Serif";
+    color: black;
+    height: 100vh;
+    padding: 20px;
+}
+
+.head{
+    font-size: 40px;
+    margin: 10px;
+}
+
+.para{
+    font-size: 18px;
+    margin: 20px;
+}
+
+.btn{
+    height: 40px;
+    background-color: beige;
+    width: 150px;
+    border-width: 0px;
+    border-style: none;
+    color: black;
+    margin-top: 10px;
+}
+
